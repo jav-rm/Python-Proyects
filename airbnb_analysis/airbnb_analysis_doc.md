@@ -129,7 +129,7 @@ compartidos.
 
 
 ## 3. Correlación entre variables numéricas
-La correlación de las variables numéricas relevantes presentes en la base de datos de listings y
+La correlación de las variables numéricas relevantes presentes en la base de datos de _listings_ y
 mostradas gráficamente en un mapa de calor de correlaciones.
 
 Nos indica aquellas relaciones más fuertes (coloreadas de rojo), y aquellas correlaciones
