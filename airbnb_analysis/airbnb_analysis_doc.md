@@ -98,6 +98,9 @@ que será sumamente útil a la hora de intentar ahorrar el máximo.
 - Los barrios del centro de Madrid tienden a ser los más caros.
 - (Los barrios señalados con una flecha, hablaremos de ellos en la siguiente gráfica)
 
+![image](https://user-images.githubusercontent.com/47507358/190876095-76b7227d-5753-4efa-ab2a-00862e755ed4.png)
+
+
 ### Valoración de los usuarios según barrios de Madrid
 Después de ver los precios según la ubicación, sería interesante ver las valoraciones de los
 usuarios ¿merece la pena pagar coste añadido por la ubicación?
